@@ -1,0 +1,8 @@
+package Interfaces;
+
+import Modelo.TblUsuariocl2;
+
+public interface Iusuario {
+	public boolean ValidarUsuario(String usuario, String password);
+
+}

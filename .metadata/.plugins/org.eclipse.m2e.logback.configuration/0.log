@@ -1,0 +1,461 @@
+2024-06-21 00:11:40,423 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml
+2024-06-21 00:11:43,471 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 00:11:44,890 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/java
+2024-06-21 00:11:44,891 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/resources
+2024-06-21 00:11:44,892 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/test/java
+2024-06-21 00:11:47,623 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2024-06-21 00:11:49,143 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:11:49,153 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:11:49,157 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:11:49,158 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:16:35,868 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:16:35,872 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:16:35,875 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:16:35,877 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:31:50,568 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 00:31:51,904 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:31:51,917 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:31:51,919 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:31:51,921 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:31:51,921 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:31:51,922 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:31:51,934 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:32:31,642 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 00:32:32,950 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:32:32,952 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:32:32,954 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:32:32,955 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:32:32,955 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:32:32,956 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:32:32,960 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:32:34,077 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:32:34,078 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:32:34,081 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 00:32:34,082 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:33:28,188 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 00:33:29,269 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:33:29,272 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:33:29,278 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:33:29,279 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:33:29,279 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:33:29,279 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:33:29,286 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:33:56,649 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-21 00:33:57,831 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 00:33:59,135 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/java
+2024-06-21 00:33:59,135 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/resources
+2024-06-21 00:33:59,151 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/test/java
+2024-06-21 00:33:59,812 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:33:59,826 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2024-06-21 00:34:00,138 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:34:00,139 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:34:00,142 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:34:00,143 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:34:00,143 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:34:00,143 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:34:00,150 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:34:00,471 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:34:00,516 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:34:00,517 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:34:00,518 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:36:02,356 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 00:36:03,391 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:36:03,392 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:36:03,394 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:36:03,396 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:36:03,397 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:36:03,397 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:36:03,404 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:36:05,229 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:36:05,231 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:36:05,234 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:36:05,234 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:40:47,670 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:40:47,681 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:40:47,683 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:40:47,683 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:41:22,758 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:41:22,763 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:41:22,766 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:41:22,766 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:41:33,247 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:41:33,250 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:41:33,252 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:41:33,253 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:41:41,794 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:41:41,796 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:41:41,798 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:41:41,798 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:41:53,407 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:41:53,409 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:41:53,411 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:41:53,411 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:42:46,063 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:42:46,066 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:42:46,069 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:42:46,069 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:59:39,681 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 00:59:42,084 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:59:42,086 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:59:42,088 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:59:42,088 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 00:59:42,089 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:59:42,089 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 00:59:42,093 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:59:44,757 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:59:44,760 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 00:59:44,761 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 00:59:44,762 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:00:53,927 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 01:00:56,775 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:00:56,777 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:00:56,778 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:00:56,779 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:00:56,779 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:00:56,779 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:00:56,784 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:00:59,530 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:00:59,535 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:00:59,537 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:00:59,537 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:15:06,002 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:15:06,003 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:15:06,004 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:15:06,005 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:15:24,048 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:15:24,459 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:15:24,460 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:15:24,463 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:15:24,463 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:15:24,464 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:15:24,464 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:15:24,532 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:16:31,970 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:16:31,972 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:16:31,973 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:16:31,974 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:32:50,988 [Worker-84] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-21 01:32:51,753 [Worker-84] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 01:32:54,255 [Worker-84] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/java
+2024-06-21 01:32:54,255 [Worker-84] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/resources
+2024-06-21 01:32:54,256 [Worker-84] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/test/java
+2024-06-21 01:32:56,067 [Worker-84] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:32:56,077 [Worker-84] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2024-06-21 01:32:58,569 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:32:58,570 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:32:58,587 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:32:58,588 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:32:58,588 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:32:58,588 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:32:58,595 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:34:17,993 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:34:17,995 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:34:17,998 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:34:17,998 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:34:30,543 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 01:34:33,293 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:34:33,295 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:34:33,297 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:34:33,298 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:34:33,298 [Worker-77] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:34:33,298 [Worker-77] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:34:33,307 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:34:56,415 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:34:56,418 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:34:56,420 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:34:56,421 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:35:15,819 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-21 01:35:16,686 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 01:35:18,942 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/java
+2024-06-21 01:35:18,942 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/resources
+2024-06-21 01:35:18,943 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/test/java
+2024-06-21 01:35:20,635 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:35:20,647 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2024-06-21 01:35:22,660 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:35:22,661 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:35:22,673 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:35:22,673 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:35:22,673 [Worker-80] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:35:22,674 [Worker-80] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:35:22,677 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:35:43,315 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:35:43,317 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:35:43,319 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:35:43,319 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:37:20,276 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 01:37:22,502 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 01:37:22,505 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:37:22,506 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 01:37:22,507 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:37:22,507 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:37:22,508 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:37:22,511 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-06-21 01:37:32,465 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 01:37:34,667 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:37:34,669 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:37:34,670 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:37:34,670 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:37:34,671 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:37:34,671 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:37:34,674 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:37:44,932 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-21 01:37:45,582 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 01:37:48,060 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/java
+2024-06-21 01:37:48,061 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/resources
+2024-06-21 01:37:48,062 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/test/java
+2024-06-21 01:37:49,726 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:37:49,739 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2024-06-21 01:37:51,782 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:37:51,783 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:37:51,795 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:37:51,795 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:37:51,795 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:37:51,796 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 01:37:51,800 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:38:19,922 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:38:19,926 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:38:19,932 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:38:19,932 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:39:36,247 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:39:36,249 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:39:36,250 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:39:36,250 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:39:41,405 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:39:41,405 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:39:41,406 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:39:41,407 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:40:22,034 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:40:22,036 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:40:22,037 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:40:22,038 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:40:31,186 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:40:31,189 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:40:31,190 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:40:31,191 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:40:38,433 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:40:38,435 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:40:38,436 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:40:38,437 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:41:16,147 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:41:16,149 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:41:16,150 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:41:16,151 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:42:22,228 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:42:22,229 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:42:22,231 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:42:22,231 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:42:57,329 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:42:57,331 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:42:57,332 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:42:57,332 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:43:21,667 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:43:21,669 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:43:21,670 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:43:21,670 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:43:53,602 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:43:53,604 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:43:53,606 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:43:53,606 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:49:16,434 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:49:16,435 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:49:16,437 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:49:16,438 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:50:30,849 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:50:30,850 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:50:30,854 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:50:30,854 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:50:49,871 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:50:49,872 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:50:49,873 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:50:49,874 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:51:24,855 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:51:24,857 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:51:24,859 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:51:24,859 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:51:38,605 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:51:38,606 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:51:38,607 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:51:38,608 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:51:45,473 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:51:45,475 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:51:45,476 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:51:45,477 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:51:51,323 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:51:51,325 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:51:51,327 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:51:51,327 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:52:56,020 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:52:56,021 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:52:56,023 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:52:56,024 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:53:05,267 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:53:05,268 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:53:05,270 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:53:05,270 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:53:15,685 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:53:15,686 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:53:15,688 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:53:15,688 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:53:35,069 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:53:35,070 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 01:53:35,072 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:53:35,072 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 01:53:48,401 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:53:48,402 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 01:53:48,406 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 01:53:48,406 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:13:43,839 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:13:43,840 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:13:43,841 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:13:43,842 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:13:55,983 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:13:55,984 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:13:55,986 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:13:55,986 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:14:06,302 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:14:06,303 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:14:06,304 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:14:06,305 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:14:36,733 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:14:36,735 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:14:36,736 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:14:36,736 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:14:46,173 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:14:46,174 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:14:46,175 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:14:46,175 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:17:32,905 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:17:32,907 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:17:32,908 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:17:32,908 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:18:22,838 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:18:22,839 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:18:22,840 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:18:22,841 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:27:08,708 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:27:08,709 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:27:08,711 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:27:08,711 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:28:12,646 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:28:12,647 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:28:12,648 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:28:12,649 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:33:54,363 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:33:54,363 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 02:33:54,364 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:33:54,365 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:39:12,674 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:39:12,674 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 02:39:12,675 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:39:12,676 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:39:34,098 [Worker-125] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-21 02:39:34,854 [Worker-125] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 02:39:37,884 [Worker-125] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/java
+2024-06-21 02:39:37,884 [Worker-125] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/resources
+2024-06-21 02:39:37,885 [Worker-125] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/test/java
+2024-06-21 02:39:39,750 [Worker-125] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 02:39:39,762 [Worker-125] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2024-06-21 02:39:43,509 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:39:43,510 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:39:43,557 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:39:43,557 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:39:43,558 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 02:39:43,558 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 02:39:43,563 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:45:56,952 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:45:56,962 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 02:45:56,963 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:45:56,963 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:47:09,341 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:47:09,341 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 02:47:09,343 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:47:09,343 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:49:07,605 [Worker-134] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar
+2024-06-21 02:49:07,734 [Worker-134] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar
+2024-06-21 02:49:07,820 [Worker-134] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:3.0.1
+2024-06-21 02:49:08,760 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:49:08,761 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 02:49:08,764 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:49:08,764 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:50:18,797 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:50:18,799 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:50:18,805 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:50:18,805 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:51:42,944 [Worker-133] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-21 02:51:43,687 [Worker-133] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven.Cl2:LPII_CL2_VillagarayRivasJosueGabriel:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\pom.xml.
+2024-06-21 02:51:46,662 [Worker-133] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/java
+2024-06-21 02:51:46,662 [Worker-133] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL2_VillagarayRivasJosueGabriel/src/main/resources
+2024-06-21 02:51:46,663 [Worker-133] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL2_VillagarayRivasJosueGabriel/src/test/java
+2024-06-21 02:51:49,015 [Worker-133] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 02:51:49,027 [Worker-133] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2024-06-21 02:51:52,257 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:51:52,258 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:51:52,268 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:51:52,268 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:51:52,268 [Worker-143] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 02:51:52,268 [Worker-143] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LPII_CL2_VillagarayRivasJosueGabriel
+2024-06-21 02:51:52,273 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:52:11,172 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:52:11,176 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:52:11,183 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:52:11,187 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:55:25,992 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:55:25,993 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 02:55:25,994 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:55:25,994 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:55:47,298 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:55:47,300 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:55:47,301 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:55:47,301 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:58:15,908 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:58:15,909 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 02:58:15,911 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:58:15,911 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:58:47,136 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:58:47,138 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:58:47,139 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:58:47,140 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 02:58:56,387 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:58:56,388 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 02:58:56,389 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 02:58:56,390 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 03:01:06,691 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:01:06,691 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 03:01:06,703 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:01:06,704 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 03:28:32,071 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:28:32,072 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 03:28:32,073 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:28:32,073 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 03:28:53,818 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:28:53,818 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 03:28:53,819 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:28:53,820 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 03:30:15,898 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:30:15,898 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-21 03:30:15,899 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:30:15,899 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 03:39:11,633 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:39:11,635 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 03:39:11,637 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:39:11,637 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 03:40:15,471 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:40:15,473 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 03:40:15,475 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:40:15,475 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 03:40:33,791 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:40:33,793 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 03:40:33,794 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:40:33,794 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 03:40:49,237 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:40:49,239 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 03:40:49,240 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 03:40:49,240 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 05:06:29,110 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 05:06:29,112 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 05:06:29,115 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 05:06:29,115 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
+2024-06-21 05:07:34,226 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 05:07:34,229 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-21 05:07:34,231 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-21 05:07:34,231 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL2_VILLAGARAYRIVASJOSUEGABRIEL\LPII_CL2_VillagarayRivasJosueGabriel\src\test\resources
