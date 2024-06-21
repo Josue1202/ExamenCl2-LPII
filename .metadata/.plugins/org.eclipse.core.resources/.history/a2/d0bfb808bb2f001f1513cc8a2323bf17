@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="#c5dec9">
 
-	<h2 align="center">Ingresar al Sistema</h2>
+	<h2 align="center">Ingresar al sistema</h2>
 
 	<form action="ControladorLogin" method="post">
 		<table align="center" border="1">

@@ -17,7 +17,7 @@ public class CrudProductoImp implements Iproducto{
 		EntityManager emanager = conex.createEntityManager();		
 		emanager.getTransaction().begin();
 
-		System.out.println("Producto registrado en BD con Exito");
+		System.out.println("Producto registrado en BD");
 		emanager.persist(tblpro);		
 		emanager.getTransaction().commit();		
 		emanager.close();		
